@@ -34,7 +34,7 @@ public class MapGameController implements Initializable {
     // public MoveEnemy enemy4;
     // public MoveEnemy[] enemys;
     public MoveOthers gate;
-    public MoveReport report;
+    // public MoveReport report;
     public GridPane mapGrid;
     public ImageView[] mapImageViews;
     //    public Group[] mapGroups;

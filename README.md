@@ -6,12 +6,14 @@
 
 ## start
 ```
+$ javac *.java
 $ java MapGame
 ```
+
 ## 操作
 - 上下左右キーで移動
 - 単位を３つ拾うと右下の扉が開く
-- 攻撃ボタンでレポート提出 
+- 攻撃ボタンでレポート提出
 
 ## 動作環境
 java/javac(java-8-openjdk-amd64), javafxが必要 
